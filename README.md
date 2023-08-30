@@ -1,4 +1,4 @@
-# Flashcards-Frontend-
+# Flashcards (Frontend)
 
 ## About the project
 Frontend for the simple educational game - flashcards. <br/>
